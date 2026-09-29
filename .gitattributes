@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.png binary
+*.gif binary
+*.ora binary
+# Golden outputs and fixtures are compared byte for byte: never touch line endings.
+tests/golden/** -text
+tests/fixtures/** -text
