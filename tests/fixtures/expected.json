@@ -1,0 +1,203 @@
+{
+  "ball_4x": {
+    "background": "transparent",
+    "bases": [
+      "#d0463a"
+    ],
+    "outline": {
+      "colors": [
+        "#1b1025"
+      ],
+      "mode": "color",
+      "thickness": 1
+    },
+    "ramps": [
+      [
+        "#4a1d4f",
+        "#8c2a4a",
+        "#d0463a",
+        "#f08a3c",
+        "#ffd27a"
+      ]
+    ],
+    "scale": 4
+  },
+  "ball_hueshift": {
+    "background": "transparent",
+    "bases": [
+      "#d0463a"
+    ],
+    "outline": {
+      "colors": [
+        "#1b1025"
+      ],
+      "mode": "color",
+      "thickness": 1
+    },
+    "ramps": [
+      [
+        "#4a1d4f",
+        "#8c2a4a",
+        "#d0463a",
+        "#f08a3c",
+        "#ffd27a"
+      ]
+    ],
+    "scale": 1
+  },
+  "ball_selout": {
+    "background": "transparent",
+    "bases": [
+      "#4fa04a"
+    ],
+    "outline": {
+      "colors": [],
+      "mode": "selout"
+    },
+    "ramps": [
+      [
+        "#1f3a3d",
+        "#2f6b4f",
+        "#4fa04a",
+        "#9bd35a",
+        "#e4f59a"
+      ]
+    ],
+    "scale": 1
+  },
+  "black_hat": {
+    "background": "transparent",
+    "bases": [
+      "#c7805e",
+      "#1b1025"
+    ],
+    "outline": {
+      "colors": [
+        "#1b1025"
+      ],
+      "mode": "color",
+      "thickness": 1
+    },
+    "ramps": [
+      [
+        "#7a4a3a",
+        "#c7805e",
+        "#f0b890",
+        "#ffe0c0"
+      ],
+      [
+        "#1b1025",
+        "#3c3a52"
+      ]
+    ],
+    "scale": 1
+  },
+  "kenney_ghost": {
+    "background": "transparent",
+    "bases_include": [
+      "#c0cbdc"
+    ],
+    "outline": {
+      "colors": [
+        "#3f2631"
+      ],
+      "mode": "color",
+      "thickness": 2
+    },
+    "scale": 1
+  },
+  "kenney_knight": {
+    "background": "transparent",
+    "bases_include": [
+      "#8b9bb4",
+      "#f7c282"
+    ],
+    "outline": {
+      "colors": [
+        "#3f2631"
+      ],
+      "mode": "color",
+      "thickness": 2
+    },
+    "scale": 1
+  },
+  "kenney_rogue": {
+    "background": "transparent",
+    "bases_include": [
+      "#8b9bb4",
+      "#f7c282"
+    ],
+    "outline": {
+      "colors": [
+        "#3f2631"
+      ],
+      "mode": "color",
+      "thickness": 2
+    },
+    "scale": 1
+  },
+  "kenney_wizard": {
+    "background": "transparent",
+    "bases_include": [
+      "#9b4ca3",
+      "#c0cbdc",
+      "#f7c282"
+    ],
+    "outline": {
+      "colors": [
+        "#3f2631"
+      ],
+      "mode": "color",
+      "thickness": 2
+    },
+    "scale": 1
+  },
+  "mushroom_shared": {
+    "background": "color",
+    "bases": [
+      "#c23b3b",
+      "#b89c8c"
+    ],
+    "outline": {
+      "colors": [
+        "#1b1025"
+      ],
+      "mode": "color",
+      "thickness": 1
+    },
+    "ramps": [
+      [
+        "#3d1f2e",
+        "#7a2336",
+        "#c23b3b",
+        "#ee7b6a"
+      ],
+      [
+        "#3d1f2e",
+        "#6e4f5a",
+        "#b89c8c",
+        "#eadcc8"
+      ]
+    ],
+    "scale": 1
+  },
+  "slime_noline": {
+    "background": "color",
+    "bases": [
+      "#41a6f6"
+    ],
+    "outline": {
+      "colors": [],
+      "mode": "none"
+    },
+    "ramps": [
+      [
+        "#23305e",
+        "#3b5dc9",
+        "#41a6f6",
+        "#9ad7ff"
+      ]
+    ],
+    "scale": 1
+  }
+}

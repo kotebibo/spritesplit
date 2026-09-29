@@ -1,0 +1,41 @@
+{
+  "background": {
+    "color": null,
+    "mode": "transparent"
+  },
+  "layers": {
+    "background": 0,
+    "flats": 172,
+    "highlights": 37,
+    "outline": 44,
+    "shading": 84
+  },
+  "outline": {
+    "colors": [
+      "#1b1025"
+    ],
+    "mode": "color",
+    "pixels": 44
+  },
+  "palette_size": 6,
+  "ramps": [
+    {
+      "base": "#d0463a",
+      "members": [
+        "#4a1d4f",
+        "#8c2a4a",
+        "#d0463a",
+        "#f08a3c",
+        "#ffd27a"
+      ],
+      "pixels": 172
+    }
+  ],
+  "shared_colors": {},
+  "size": {
+    "height": 18,
+    "scale": 4,
+    "width": 18
+  },
+  "version": 1
+}

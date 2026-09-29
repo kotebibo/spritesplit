@@ -1,0 +1,79 @@
+{
+  "background": {
+    "color": null,
+    "mode": "transparent"
+  },
+  "layers": {
+    "background": 0,
+    "flats": 123,
+    "highlights": 15,
+    "outline": 92,
+    "shading": 1
+  },
+  "outline": {
+    "colors": [
+      "#3f2631"
+    ],
+    "mode": "color",
+    "pixels": 92
+  },
+  "palette_size": 9,
+  "ramps": [
+    {
+      "base": "#262b44",
+      "members": [
+        "#262b44"
+      ],
+      "pixels": 4
+    },
+    {
+      "base": "#3f2631",
+      "members": [
+        "#3f2631",
+        "#8b9bb4"
+      ],
+      "pixels": 15
+    },
+    {
+      "base": "#9b4ca3",
+      "members": [
+        "#9b4ca3",
+        "#d176d0"
+      ],
+      "pixels": 55
+    },
+    {
+      "base": "#c0cbdc",
+      "members": [
+        "#aab7cc",
+        "#c0cbdc"
+      ],
+      "pixels": 24
+    },
+    {
+      "base": "#bd6c4a",
+      "members": [
+        "#bd6c4a"
+      ],
+      "pixels": 1
+    },
+    {
+      "base": "#f7c282",
+      "members": [
+        "#f7c282"
+      ],
+      "pixels": 24
+    }
+  ],
+  "shared_colors": {
+    "#c0cbdc": [
+      1
+    ]
+  },
+  "size": {
+    "height": 16,
+    "scale": 1,
+    "width": 16
+  },
+  "version": 1
+}
